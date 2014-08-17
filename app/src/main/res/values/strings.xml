@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Map This Photo</string>
+    <string name="title_activity_share">Map this photo</string>
+
+    <string name="finding_location">Finding location…</string>
+    <string name="no_geotag">Photo not geotagged!</string>
+    <string name="no_map_app">No map app found!</string>
+</resources>
